@@ -1,0 +1,18 @@
+html{
+    font-size: 63.5%;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    margin-top: 1rem;
+}
